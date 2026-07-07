@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Thariq%20Azees&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Undergraduate%20%7C%20Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Thariq%20Azees%Amanulla&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Undergraduate%20%7C%20Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+scalable+software+systems;Researching+AI-driven+Human-Computer+Interaction;Turning+research+into+production-ready+software;Open+to+SWE+%2F+AI+%2F+Research+Internships+2027" alt="Typing SVG"/>
