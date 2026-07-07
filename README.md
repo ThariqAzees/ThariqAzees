@@ -56,7 +56,7 @@ I enjoy designing reliable, maintainable, user-centric systems that bridge the g
 | **⚙️ Backend Development** | <img src="https://skillicons.dev/icons?i=nodejs,express" /> <img src="https://cdn.simpleicons.org/fastapi/009688" width="48" title="REST APIs"/> |
 | **🗄️ Databases** | <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" /> |
 | **🤖 AI & Machine Learning** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" title="Scikit-learn"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" title="Pandas"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" title="NumPy"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48" title="OpenCV"/> <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Google_MediaPipe_logo.svg" width="48" title="MediaPipe"/> <img src="https://img.shields.io/badge/XGBoost-FF6F00?style=flat-square" title="XGBoost"/> |
-| **🌍 GIS & Visualization** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qgis/qgis-original.svg" width="48" title="QGIS"/> |
+| **🌍 GIS & Visualization** |<img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white"/>|
 | **🧰 Developer Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" /> |
 | **☁️ Cloud & DevOps** *(Learning)* | <img src="https://skillicons.dev/icons?i=docker,aws,azure,githubactions" /> |
 
