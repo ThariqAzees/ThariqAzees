@@ -26,9 +26,9 @@
 ## 🧑‍💻 About Me
 
 
-Computer Science undergraduate at **College of Engineering Guindy, Anna University**, building scalable software systems, AI-powered applications, and research-driven solutions. My work sits at the intersection of **Full Stack Development, Artificial Intelligence, Machine Learning, Human–Computer Interaction, and Computer Vision** — using engineering practice to solve real-world problems and research thinking to push past the obvious solution.
+Computer Science undergraduate at **College of Engineering Guindy, Anna University**, building scalable software systems, AI-powered applications, and research-driven solutions. My work sits at the intersection of **Full Stack Development, Artificial Intelligence, Machine Learning, Human–Computer Interaction, and Computer Vision** using engineering practice to solve real-world problems and research thinking to push past the obvious solution.
 
-I enjoy designing reliable, maintainable, user-centric systems that bridge the gap between research prototypes and production software — whether that's a webcam-based cognitive assessment platform or a physics-informed ML pipeline for dam safety.
+I enjoy designing reliable, maintainable, user-centric systems that bridge the gap between research prototypes and production software  whether that's a webcam-based cognitive assessment platform or a physics-informed ML pipeline for dam safety.
 
 <br/>
 
