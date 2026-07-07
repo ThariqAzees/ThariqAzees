@@ -44,7 +44,7 @@ I enjoy designing reliable, maintainable, user-centric systems that bridge the g
 
 <br/>
 
-#TECH STACK
+## 🛠️ Tech Stack
 
 <div align="center">
 
