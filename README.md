@@ -303,9 +303,7 @@ Artificial Intelligence · Human–Computer Interaction · Digital Health · Exp
 - 🏢 Enterprise-grade data validation experience at Stats Perform
 
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=egg&color=gradient&customColorList=12,20,25&height=90&section=header&text=Current%20Focus&fontSize=32&fontColor=ffffff&desc=What%20I%27m%20learning%2C%20building%2C%20and%20exploring&descSize=13&descAlignY=75&animation=fadeIn"/>
-
+## 🧭 Current Focus
 ```yaml
 learning:
   - System Design
@@ -339,10 +337,9 @@ open_to:
 </div>
 
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=egg&color=gradient&customColorList=12,20,25&height=90&section=header&text=Connect%20With%20Me&fontSize=32&fontColor=ffffff&desc=Let%27s%20talk%20research%2C%20code%2C%20or%20opportunities&descSize=13&descAlignY=75&animation=fadeIn"/>
-
 <div align="center">
+## 📫 Connect With Me
+
 
 <a href="https://github.com/ThariqAzees"><img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://linkedin.com/in/thariq-azees-4983ab284"><img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
