@@ -63,6 +63,7 @@ I enjoy designing reliable, maintainable, user-centric systems that bridge the g
 </div>
 
 ## 📊 EXPERIENCE
+<div align="center">
 
 | Domain | Experience | Proficiency | Technologies |
 |---|:---:|:---:|---|
@@ -76,6 +77,7 @@ I enjoy designing reliable, maintainable, user-centric systems that bridge the g
 | GIS Analytics | 1 year | ●●●○○ | QGIS, spatial visualization |
 | Predictive Analytics | 1+ year | ●●●●○ | Random Forest, feature engineering |
 | Software Architecture | 1+ year | ●●●○○ | Modular systems, multi-module pipelines |
+</div>
 
 <br/>
 
