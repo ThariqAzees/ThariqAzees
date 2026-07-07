@@ -10,21 +10,20 @@
 
 <img src="https://img.shields.io/badge/B.E.%20CSE-College%20of%20Engineering%20Guindy-6D28D9?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
 <img src="https://img.shields.io/badge/Location-Chennai%2C%20India-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen?style=for-the-badge&logo=briefcase&logoColor=white"/>
 
 <br/><br/>
 
 <a href="https://github.com/ThariqAzees"><img src="https://img.shields.io/badge/GitHub-ThariqAzees-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://linkedin.com/in/thariq-azees-4983ab284"><img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:thariqazees051@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact%20Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/ThariqAzees/ThariqAzees/raw/main/AZEES_RESUME.pdf"><img src="https://img.shields.io/badge/Resume-Download-5B21B6?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
+<a href="https://github.com/ThariqAzees/ThariqAzees/raw/main/resume.pdf"><img src="https://img.shields.io/badge/Resume-Download-5B21B6?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=2&width=100%"/>
-
-## 🧑‍💻 About Me
+<img src="https://capsule-render.vercel.app/api?type=egg&color=gradient&customColorList=12,20,25&height=90&section=header&text=About%20Me&fontSize=32&fontColor=ffffff&desc=Who%20I%20am%20%26%20what%20I%20build&descSize=13&descAlignY=75&animation=fadeIn"/>
 
 Computer Science undergraduate at **College of Engineering Guindy, Anna University**, building scalable software systems, AI-powered applications, and research-driven solutions. My work sits at the intersection of **Full Stack Development, Artificial Intelligence, Machine Learning, Human–Computer Interaction, and Computer Vision** — using engineering practice to solve real-world problems and research thinking to push past the obvious solution.
 
@@ -32,7 +31,7 @@ I enjoy designing reliable, maintainable, user-centric systems that bridge the g
 
 <br/>
 
-## 🎯 Open To
+<img src="https://capsule-render.vercel.app/api?type=egg&color=gradient&customColorList=12,20,25&height=90&section=header&text=Open%20To&fontSize=32&fontColor=ffffff&desc=Where%20I%27d%20love%20to%20contribute&descSize=13&descAlignY=75&animation=fadeIn"/>
 
 <div align="center">
 
@@ -44,9 +43,7 @@ I enjoy designing reliable, maintainable, user-centric systems that bridge the g
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=2&width=100%"/>
-
-## 🛠️ Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=egg&color=gradient&customColorList=12,20,25&height=90&section=header&text=Tech%20Stack&fontSize=32&fontColor=ffffff&desc=Tools%20and%20languages%20I%20work%20with&descSize=13&descAlignY=75&animation=fadeIn"/>
 
 <div align="center">
 
@@ -90,7 +87,7 @@ I enjoy designing reliable, maintainable, user-centric systems that bridge the g
 
 <br/>
 
-## 📊 AI & Software Engineering Expertise
+<img src="https://capsule-render.vercel.app/api?type=egg&color=gradient&customColorList=12,20,25&height=90&section=header&text=Expertise&fontSize=32&fontColor=ffffff&desc=Domains%2C%20experience%20%26%20proficiency&descSize=13&descAlignY=75&animation=fadeIn"/>
 
 | Domain | Experience | Proficiency | Technologies |
 |---|:---:|:---:|---|
@@ -107,9 +104,7 @@ I enjoy designing reliable, maintainable, user-centric systems that bridge the g
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=2&width=100%"/>
-
-## 🚀 Featured Projects
+<img src="https://capsule-render.vercel.app/api?type=egg&color=gradient&customColorList=12,20,25&height=90&section=header&text=Featured%20Projects&fontSize=32&fontColor=ffffff&desc=What%20I%27ve%20built%20and%20researched&descSize=13&descAlignY=75&animation=fadeIn"/>
 
 <details open>
 <summary><b>🧠 Webcam-Based ADHD Screening Platform (Hero Project)</b></summary>
@@ -215,9 +210,7 @@ Node.js · Express.js · MongoDB
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=2&width=100%"/>
-
-## 💼 Professional Experience
+<img src="https://capsule-render.vercel.app/api?type=egg&color=gradient&customColorList=12,20,25&height=90&section=header&text=Experience&fontSize=32&fontColor=ffffff&desc=Where%20I%27ve%20worked&descSize=13&descAlignY=75&animation=fadeIn"/>
 
 **Data Collection Analyst (Part-Time)** — *Stats Perform* &nbsp;·&nbsp; Jan 2025 – Jan 2026
 Validated and updated 100+ player records daily across multiple US professional sports leagues, maintaining real-time database accuracy through quality-audited workflows under strict production deadlines.
@@ -227,9 +220,7 @@ Developed frontend interfaces for 4 web applications, delivering 15+ responsive 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=2&width=100%"/>
-
-## 🔬 Research
+<img src="https://capsule-render.vercel.app/api?type=egg&color=gradient&customColorList=12,20,25&height=90&section=header&text=Research&fontSize=32&fontColor=ffffff&desc=Current%20focus%20and%20publications&descSize=13&descAlignY=75&animation=fadeIn"/>
 
 **Current Research**
 - Human–Computer Interaction
@@ -248,9 +239,7 @@ Artificial Intelligence · Human–Computer Interaction · Digital Health · Exp
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=2&width=100%"/>
-
-## 🎓 Certifications & Professional Development
+<img src="https://capsule-render.vercel.app/api?type=egg&color=gradient&customColorList=12,20,25&height=90&section=header&text=Certifications&fontSize=32&fontColor=ffffff&desc=Courses%20and%20professional%20development&descSize=13&descAlignY=75&animation=fadeIn"/>
 
 <details open>
 <summary><b>🤖 Artificial Intelligence & Machine Learning</b></summary>
@@ -301,9 +290,7 @@ Artificial Intelligence · Human–Computer Interaction · Digital Health · Exp
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=2&width=100%"/>
-
-## 🏆 Achievements
+<img src="https://capsule-render.vercel.app/api?type=egg&color=gradient&customColorList=12,20,25&height=90&section=header&text=Achievements&fontSize=32&fontColor=ffffff&desc=Milestones%20along%20the%20way&descSize=13&descAlignY=75&animation=fadeIn"/>
 
 - 🎯 Developed an ML-based dam-safety classifier achieving **94.3% accuracy** and **0.96 AUC**
 - 🏗️ Built and shipped multiple production-ready full-stack applications
@@ -313,9 +300,7 @@ Artificial Intelligence · Human–Computer Interaction · Digital Health · Exp
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=2&width=100%"/>
-
-## 🧭 Current Focus
+<img src="https://capsule-render.vercel.app/api?type=egg&color=gradient&customColorList=12,20,25&height=90&section=header&text=Current%20Focus&fontSize=32&fontColor=ffffff&desc=What%20I%27m%20learning%2C%20building%2C%20and%20exploring&descSize=13&descAlignY=75&animation=fadeIn"/>
 
 ```yaml
 learning:
@@ -343,31 +328,27 @@ open_to:
 
 <br/>
 
-## 💭 Engineering Philosophy
+<div align="center">
 
-> I enjoy building software that is scalable, maintainable, and grounded in real-world impact. Whether developing AI research prototypes or full-stack applications, I focus on writing clean code, designing thoughtful systems, and creating technology that solves meaningful problems.
+> *"I enjoy building software that is scalable, maintainable, and grounded in real-world impact. Whether developing AI research prototypes or full-stack applications, I focus on writing clean code, designing thoughtful systems, and creating technology that solves meaningful problems."*
+
+</div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=2&width=100%"/>
-
-## 📫 Connect
+<img src="https://capsule-render.vercel.app/api?type=egg&color=gradient&customColorList=12,20,25&height=90&section=header&text=Connect%20With%20Me&fontSize=32&fontColor=ffffff&desc=Let%27s%20talk%20research%2C%20code%2C%20or%20opportunities&descSize=13&descAlignY=75&animation=fadeIn"/>
 
 <div align="center">
 
 <a href="https://github.com/ThariqAzees"><img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://linkedin.com/in/thariq-azees-4983ab284"><img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:thariqazees051@gmail.com"><img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/ThariqAzees/ThariqAzees/raw/main/AZEES_RESUME.pdf"><img src="https://img.shields.io/badge/Resume-5B21B6?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
+<a href="https://github.com/ThariqAzees/ThariqAzees/raw/main/resume.pdf"><img src="https://img.shields.io/badge/Resume-5B21B6?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
 
-</div>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 *"Building intelligent software that creates measurable real-world impact."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer&animation=fadeIn"/>
 
 </div>
