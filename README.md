@@ -46,47 +46,21 @@ I enjoy designing reliable, maintainable, user-centric systems that bridge the g
 
 ## 🛠️ Tech Stack
 
+
 <div align="center">
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js"/>
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,angular,html,css"/>
-
-**Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-<img src="https://img.shields.io/badge/REST%20APIs-6D28D9?style=flat-square&logo=fastapi&logoColor=white"/>
-
-**Database**
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-
-**Machine Learning**
-<br/>
-<img src="https://img.shields.io/badge/scikit--learn-7C3AED?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-6366F1?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-4F46E5?style=flat-square&logo=numpy&logoColor=white"/>
-
-**GIS**
-<br/>
-<img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white"/>
-
-**Developer Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
-
-**Cloud & DevOps** *(currently learning)*
-<br/>
-<img src="https://skillicons.dev/icons?i=docker,aws,azure"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-Learning-8B5CF6?style=flat-square&logo=githubactions&logoColor=white"/>
+| Category | Technologies |
+|:---------|:-------------|
+| **💻 Programming Languages** | <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" /> |
+| **🎨 Frontend Development** | <img src="https://skillicons.dev/icons?i=react,angular,html,css" /> |
+| **⚙️ Backend Development** | <img src="https://skillicons.dev/icons?i=nodejs,express" /> <img src="https://cdn.simpleicons.org/fastapi/009688" width="48" title="REST APIs"/> |
+| **🗄️ Databases** | <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" /> |
+| **🤖 AI & Machine Learning** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" title="Scikit-learn"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" title="Pandas"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" title="NumPy"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48" title="OpenCV"/> <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Google_MediaPipe_logo.svg" width="48" title="MediaPipe"/> <img src="https://img.shields.io/badge/XGBoost-FF6F00?style=flat-square" title="XGBoost"/> |
+| **🌍 GIS & Visualization** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qgis/qgis-original.svg" width="48" title="QGIS"/> |
+| **🧰 Developer Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" /> |
+| **☁️ Cloud & DevOps** *(Learning)* | <img src="https://skillicons.dev/icons?i=docker,aws,azure,githubactions" /> |
 
 </div>
-
-<br/>
 
 ## 📊 EXPERIENCE
 
