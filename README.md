@@ -16,7 +16,7 @@
 <a href="https://github.com/ThariqAzees"><img src="https://img.shields.io/badge/GitHub-ThariqAzees-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://linkedin.com/in/thariq-azees-4983ab284"><img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:thariqazees051@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact%20Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/ThariqAzees/ThariqAzees/raw/main/resume.pdf"><img src="https://img.shields.io/badge/Resume-Download-5B21B6?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
+<a href="https://github.com/ThariqAzees/ThariqAzees/raw/main/AZEES_RESUME.pdf"><img src="https://img.shields.io/badge/Resume-Download-5B21B6?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
 
 </div>
 
@@ -358,7 +358,7 @@ open_to:
 <a href="https://github.com/ThariqAzees"><img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://linkedin.com/in/thariq-azees-4983ab284"><img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:thariqazees051@gmail.com"><img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/ThariqAzees/ThariqAzees/raw/main/resume.pdf"><img src="https://img.shields.io/badge/Resume-5B21B6?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
+<a href="https://github.com/ThariqAzees/ThariqAzees/raw/main/AZEES_RESUME.pdf"><img src="https://img.shields.io/badge/Resume-5B21B6?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
 
 </div>
 
