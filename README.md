@@ -257,21 +257,7 @@ Artificial Intelligence · Human–Computer Interaction · Digital Health · Exp
 
 <br/>
 
-## Certifications
 
-**NPTEL**
-<br/><img src="https://img.shields.io/badge/NPTEL-Certification-6D28D9?style=for-the-badge&logo=nptel&logoColor=white"/> *(add certificate title)*
-
-**Cisco**
-<br/><img src="https://img.shields.io/badge/Cisco-Certification-7C3AED?style=for-the-badge&logo=cisco&logoColor=white"/> *(add certificate title)*
-
-**Oracle**
-<br/><img src="https://img.shields.io/badge/Oracle-Certification-6366F1?style=for-the-badge&logo=oracle&logoColor=white"/> *(add certificate title)*
-
-**AWS**
-<br/><img src="https://img.shields.io/badge/AWS-Certification-4F46E5?style=for-the-badge&logo=amazonaws&logoColor=white"/> *(add certificate title)*
-
-<br/>
 
 ## Coding Profiles
 
